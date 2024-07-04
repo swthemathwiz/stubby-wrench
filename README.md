@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is a 3D-printable [OpenSCAD](https://openscad.org/) model of standard quarter-inch
-hex-bit holders. It was created as part of an experiment with texture and the [Round-Anything
-library](https://github.com/Irev-Dev/Round-Anything).
+These are 3D-printable [OpenSCAD](https://openscad.org/) models of standard quarter-inch
+hex-bit holders. They created as part of an experiment with texture and the [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
+library.
 
 ![Image of Stubby Wrench](../media/media/stubby-wrench.jpg?raw=true "Stubby Wrench with Bit")
 
@@ -16,7 +16,7 @@ There are two models:
 
 ### Stubby Wrench
 
-A textured T-style handle for a hex bit. Many dimensions can be modified
+A textured T-style handle that receivers a hex bit. Many dimensions can be modified
 and adjusted by working with source and the OpenSCAD customizer.
 
 </td></tr></tbody></table></div>
@@ -26,7 +26,7 @@ and adjusted by working with source and the OpenSCAD customizer.
 ### Stubby Bit Holder
 
 The stubby bit holder is intended with a small bit. Compared to the
-stubby wrench, the depth of the receiver is shorter (10mm vs 13mm) and
+stubby wrench, the depth of the receiver hole is shorter (10mm vs 13mm) and
 the model is taller. This allows more space for your fingers between the
 bit and the handle.
 
