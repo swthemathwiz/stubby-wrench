@@ -21,7 +21,7 @@ and adjusted by working with source and the OpenSCAD customizer.
 
 </td></tr></tbody></table></div>
 
-<div class="model" data-name="Stubby Bit Holder" data-icon-size="128" data-left-icon="stubby-bit-holder.icon.png" data-left="stubby-bit-holder.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.stl" target="_blank" title="View Stubby Wrench Model"><img src="../media/media/stubby-bit-holder.icon.png" alt="Stubby Wrench Model" width="128" height="128" /></a></td><td>
+<div class="model" data-name="Stubby Bit Holder" data-icon-size="128" data-left-icon="stubby-bit-holder.icon.png" data-left="stubby-bit-holder.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.stl" target="_blank" title="View Stubby Bit Holder Model"><img src="../media/media/stubby-bit-holder.icon.png" alt="Stubby Bit Holder Model" width="128" height="128" /></a></td><td>
 
 ### Stubby Bit Holder
 
