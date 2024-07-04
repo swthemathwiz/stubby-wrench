@@ -43,3 +43,25 @@ selection).
 
 The bit holders are built using OpenSCAD. *stubby-wrench.scad* is the main
 file for all the models.
+
+### Libraries
+
+You'll need the [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
+OpenSCAD library as well as the semi-standard MCAD library):
+
+- [MCAD](https://github.com/openscad/MCAD)
+- [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
+
+Save all of these into your OpenSCAD [library folder](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries)
+and then the folder should now include the following files and directories:
+
+```
+    libraries
+    ├── MCAD/
+    └── Round-Anything/
+```
+
+Alternately, if you're building on Linux, `make local-libraries` should fetch all the files
+and place them in the local directory "./libraries". Then, you can set the environment variable
+[OPENSCADPATH](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries#Setting_OPENSCADPATH)
+to include that directory in OpenSCAD's library search path.
