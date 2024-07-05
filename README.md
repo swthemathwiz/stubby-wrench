@@ -2,9 +2,10 @@
 
 ## Introduction
 
-These are 3D-printable [OpenSCAD](https://openscad.org/) models of standard quarter-inch
-hex-bit holders. They created as part of an experiment with texture and the [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
-library.
+These are 3D-printable [OpenSCAD](https://openscad.org/) models of
+standard quarter-inch hex-bit holders. They were created as part of an
+experiment with texture and the
+[Round-Anything](https://github.com/Irev-Dev/Round-Anything) library.
 
 ![Image of Stubby Wrench](../media/media/stubby-wrench.jpg?raw=true "Stubby Wrench with Bit")
 
@@ -25,8 +26,8 @@ and adjusted by working with source and the OpenSCAD customizer.
 
 ### Stubby Bit Holder
 
-The stubby bit holder is intended with a small bit. Compared to the
-stubby wrench, the depth of the receiver hole is shorter (10mm vs 13mm) and
+The stubby bit holder is intended for a small bit. Compared to the
+stubby wrench, the depth of the receiver hole is shorter (10 mm vs. 13 mm) and
 the model is taller. This allows more space for your fingers between the
 bit and the handle.
 
@@ -47,13 +48,13 @@ file for all the models.
 ### Libraries
 
 You'll need the [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
-OpenSCAD library as well as the semi-standard MCAD library):
+OpenSCAD library as well as the semi-standard MCAD library:
 
 - [MCAD](https://github.com/openscad/MCAD)
 - [Round-Anything](https://github.com/Irev-Dev/Round-Anything)
 
-Save all of these into your OpenSCAD [library folder](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries)
-and then the folder should now include the following files and directories:
+Install these libraries below your OpenSCAD [library folder](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries)
+and then that folder should include the following directories:
 
 ```
     libraries
@@ -61,7 +62,8 @@ and then the folder should now include the following files and directories:
     └── Round-Anything/
 ```
 
-Alternately, if you're building on Linux, `make local-libraries` should fetch all the files
-and place them in the local directory "./libraries". Then, you can set the environment variable
+Alternatively, if you're building on Linux, `make local-libraries`
+should fetch all the files and place them in the local directory
+"./libraries". Then, you can set the environment variable
 [OPENSCADPATH](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries#Setting_OPENSCADPATH)
 to include that directory in OpenSCAD's library search path.
