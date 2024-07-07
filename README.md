@@ -20,7 +20,7 @@ There are two models:
 A textured T-style handle that receivers a hex bit. Many dimensions can be modified
 and adjusted by working with source and the OpenSCAD customizer.
 
-</td></tr></tbody></table></div>
+</td><td align="center" width="160" height="160"><a href="../media/media/stubby-wrench.installed.jpg" target="_blank" title="View Stubby Wrench Installed"><img src="../media/media/stubby-wrench.installed.jpg" alt="Stubby Wrench Installed" width="128" height="128" /></a></td></tr></tbody></table></div>
 
 <div class="model" data-name="Stubby Bit Holder" data-icon-size="128" data-left-icon="stubby-bit-holder.icon.png" data-left="stubby-bit-holder.stl" data-right="stubby-bit-holder.installed.jpg"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.stl" target="_blank" title="View Stubby Bit Holder Model"><img src="../media/media/stubby-bit-holder.icon.png" alt="Stubby Bit Holder Model" width="128" height="128" /></a></td><td>
 
@@ -31,7 +31,7 @@ stubby wrench, the depth of the receiver hole is shorter (10 mm vs. 13 mm) and
 the model is taller. This allows more space for your fingers between the
 bit and the handle.
 
-</td></tr></tbody></table></div>
+</td><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.installed.jpg" target="_blank" title="View Stubby Bit Holder Installed"><img src="../media/media/stubby-bit-holder.installed.jpg" alt="Stubby Bit Holder Installed" width="128" height="128" /></a></td></tr></tbody></table></div>
 
 ## Printing
 
