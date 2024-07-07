@@ -7,13 +7,13 @@ standard quarter-inch hex-bit holders. They were created as part of an
 experiment with texture and the
 [Round-Anything](https://github.com/Irev-Dev/Round-Anything) library.
 
-![Image of Stubby Wrench](../media/media/stubby-wrench.jpg?raw=true "Stubby Wrench with Bit")
+![Image of Stubby Wrench and Bit Holder](../media/media/stubby-double.jpg?raw=true "Stubby Wrench and Stubby Bit Holder")
 
 ## Model
 
 There are two models:
 
-<div class="model" data-name="Stubby Wrench" data-icon-size="128" data-left-icon="stubby-wrench.icon.png" data-left="stubby-wrench.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-wrench.stl" target="_blank" title="View Stubby Wrench Model"><img src="../media/media/stubby-wrench.icon.png" alt="Stubby Wrench Model" width="128" height="128" /></a></td><td>
+<div class="model" data-name="Stubby Wrench" data-icon-size="128" data-left-icon="stubby-wrench.icon.png" data-left="stubby-wrench.stl" data-right="stubby-wrench.installed.jpg"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-wrench.stl" target="_blank" title="View Stubby Wrench Model"><img src="../media/media/stubby-wrench.icon.png" alt="Stubby Wrench Model" width="128" height="128" /></a></td><td>
 
 ### Stubby Wrench
 
@@ -22,7 +22,7 @@ and adjusted by working with source and the OpenSCAD customizer.
 
 </td></tr></tbody></table></div>
 
-<div class="model" data-name="Stubby Bit Holder" data-icon-size="128" data-left-icon="stubby-bit-holder.icon.png" data-left="stubby-bit-holder.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.stl" target="_blank" title="View Stubby Bit Holder Model"><img src="../media/media/stubby-bit-holder.icon.png" alt="Stubby Bit Holder Model" width="128" height="128" /></a></td><td>
+<div class="model" data-name="Stubby Bit Holder" data-icon-size="128" data-left-icon="stubby-bit-holder.icon.png" data-left="stubby-bit-holder.stl" data-right="stubby-bit-holder.installed.jpg"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.stl" target="_blank" title="View Stubby Bit Holder Model"><img src="../media/media/stubby-bit-holder.icon.png" alt="Stubby Bit Holder Model" width="128" height="128" /></a></td><td>
 
 ### Stubby Bit Holder
 
@@ -37,7 +37,7 @@ bit and the handle.
 
 I use a Creality Ender 3 Pro to build from PLA with a layer height of
 0.20mm. There are no particular restrictions on printing, but you might
-want to optimize where your slicer puts seams (e.g. "Rear" is a good
+want to optimize your slicer's seam placement (e.g. "Rear" is a good
 selection).
 
 ## Source
