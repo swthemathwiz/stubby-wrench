@@ -17,8 +17,10 @@ There are two models:
 
 ### Stubby Wrench
 
-A textured T-style handle that receivers a hex bit. Many dimensions can be modified
-and adjusted by working with source and the OpenSCAD customizer.
+A textured T-style handle that receivers a hex bit. The receiver hole is
+13 mm, making it a little too deep for shorter bits but better for most
+longer bits and adapters. Many dimensions can be modified and adjusted
+by working with source and the OpenSCAD customizer.
 
 </td><td align="center" width="160" height="160"><a href="../media/media/stubby-wrench.installed.jpg" target="_blank" title="View Stubby Wrench Installed"><img src="../media/media/stubby-wrench.installed.jpg" alt="Stubby Wrench Installed" width="128" height="128" /></a></td></tr></tbody></table></div>
 
@@ -27,17 +29,17 @@ and adjusted by working with source and the OpenSCAD customizer.
 ### Stubby Bit Holder
 
 The stubby bit holder is intended for a small bit. Compared to the
-stubby wrench, the depth of the receiver hole is shorter (10 mm vs. 13 mm) and
-the model is taller. This allows more space for your fingers between the
-bit and the handle.
+stubby wrench, the receiver hole is shallower (10 mm vs. 13 mm) and the
+receiver itself is taller. This allows more space for your fingers
+between the bit and the handle.
 
 </td><td align="center" width="160" height="160"><a href="../media/media/stubby-bit-holder.installed.jpg" target="_blank" title="View Stubby Bit Holder Installed"><img src="../media/media/stubby-bit-holder.installed.jpg" alt="Stubby Bit Holder Installed" width="128" height="128" /></a></td></tr></tbody></table></div>
 
 ## Printing
 
-I use a Creality Ender 3 Pro to build from PLA with a layer height of
-0.20mm. There are no particular restrictions on printing, but you might
-want to optimize your slicer's seam placement (e.g. "Rear" is a good
+I use a Creality Ender 3 Pro to build from PLA with a **layer height of
+0.20 mm** and an **infill density of 20%**. Also, you might want to
+optimize your slicer's **seam placement** (e.g. "Rear" is a good
 selection).
 
 ## Source
